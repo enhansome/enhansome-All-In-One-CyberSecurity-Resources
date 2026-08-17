@@ -190,7 +190,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26902
+            "stars": 26913
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-02-28T16:37:20Z",
             "owner": "lissy93",
             "repo": "personal-security-checklist",
-            "stars": 22101
+            "stars": 22109
           }
         },
         {
@@ -218,7 +218,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16879
+            "stars": 16886
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2023-10-16T11:21:45Z",
             "owner": "sundowndev",
             "repo": "hacker-roadmap",
-            "stars": 15557
+            "stars": 15559
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14751
+            "stars": 14758
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2022-09-21T18:20:20Z",
             "owner": "hmaverickadams",
             "repo": "Beginner-Network-Pentesting",
-            "stars": 6336
+            "stars": 6337
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-15T16:05:29Z",
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5717
+            "stars": 5718
           }
         },
         {
@@ -302,7 +302,7 @@
             "last_commit": "2024-07-15T08:05:27Z",
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5513
+            "stars": 5516
           }
         },
         {
@@ -316,7 +316,7 @@
             "last_commit": "2024-07-02T03:39:39Z",
             "owner": "joe-shenouda",
             "repo": "awesome-cyber-skills",
-            "stars": 4619
+            "stars": 4620
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-06-18T15:59:52Z",
             "owner": "fabionoth",
             "repo": "awesome-cyber-security",
-            "stars": 1926
+            "stars": 1927
           }
         },
         {
@@ -386,7 +386,7 @@
             "last_commit": "2025-11-05T00:35:03Z",
             "owner": "harisqazi1",
             "repo": "Cybersecurity",
-            "stars": 1368
+            "stars": 1369
           }
         },
         {
@@ -400,7 +400,7 @@
             "last_commit": "2026-08-08T14:04:39Z",
             "owner": "okhosting",
             "repo": "awesome-cyber-security",
-            "stars": 698
+            "stars": 699
           }
         },
         {
@@ -506,7 +506,7 @@
             "last_commit": "2025-04-15T14:56:35Z",
             "owner": "ITI",
             "repo": "ICS-Security-Tools",
-            "stars": 2017
+            "stars": 2018
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2023-12-28T18:10:52Z",
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8058
+            "stars": 8059
           }
         },
         {
@@ -638,7 +638,7 @@
             "last_commit": "2025-10-01T17:10:58Z",
             "owner": "bluscreenofjeff",
             "repo": "Red-Team-Infrastructure-Wiki",
-            "stars": 4513
+            "stars": 4514
           }
         },
         {
@@ -714,7 +714,7 @@
             "last_commit": "2026-08-04T04:50:06Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13684
+            "stars": 13690
           }
         },
         {
@@ -728,7 +728,7 @@
             "last_commit": "2026-08-10T21:37:50Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13670
+            "stars": 13678
           }
         },
         {
@@ -742,7 +742,7 @@
             "last_commit": "2026-08-13T15:21:19Z",
             "owner": "infoslack",
             "repo": "awesome-web-hacking",
-            "stars": 7232
+            "stars": 7229
           }
         },
         {
@@ -831,7 +831,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:35:46.884Z",
+    "last_updated": "2026-08-17T02:35:01.839Z",
     "original_repository": "vatsalgupta67/All-In-One-CyberSecurity-Resources",
     "original_repository_sha": "a050178b8df34b07d39bd3f741fc403e56ee578d",
     "enhanced_repository": "enhansome/enhansome-All-In-One-CyberSecurity-Resources",
