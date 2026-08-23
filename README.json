@@ -195,7 +195,7 @@
                 "last_commit": "2026-07-25T12:15:45Z",
                 "owner": "enaqx",
                 "repo": "awesome-pentest",
-                "stars": 26978
+                "stars": 26984
               }
             },
             {
@@ -210,7 +210,7 @@
                 "last_commit": "2026-02-28T16:37:20Z",
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22153
+                "stars": 22159
               }
             },
             {
@@ -225,7 +225,7 @@
                 "last_commit": "2024-06-02T22:40:13Z",
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 16917
+                "stars": 16922
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-01-11T02:00:26Z",
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14782
+                "stars": 14788
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2026-06-07T18:38:18Z",
                 "owner": "juliocesarfort",
                 "repo": "public-pentesting-reports",
-                "stars": 9687
+                "stars": 9688
               }
             },
             {
@@ -285,7 +285,7 @@
                 "last_commit": "2022-09-21T18:20:20Z",
                 "owner": "hmaverickadams",
                 "repo": "Beginner-Network-Pentesting",
-                "stars": 6341
+                "stars": 6342
               }
             },
             {
@@ -315,7 +315,7 @@
                 "last_commit": "2024-07-15T08:05:27Z",
                 "owner": "fabacab",
                 "repo": "awesome-cybersecurity-blueteam",
-                "stars": 5530
+                "stars": 5531
               }
             },
             {
@@ -330,7 +330,7 @@
                 "last_commit": "2024-07-02T03:39:39Z",
                 "owner": "joe-shenouda",
                 "repo": "awesome-cyber-skills",
-                "stars": 4631
+                "stars": 4632
               }
             },
             {
@@ -390,7 +390,7 @@
                 "last_commit": "2026-08-20T21:55:17Z",
                 "owner": "fabionoth",
                 "repo": "awesome-cyber-security",
-                "stars": 1930
+                "stars": 1929
               }
             },
             {
@@ -417,7 +417,7 @@
                 "archived": false,
                 "id": 378968632,
                 "language": null,
-                "last_commit": "2026-08-08T14:04:39Z",
+                "last_commit": "2026-08-22T14:44:13Z",
                 "owner": "okhosting",
                 "repo": "awesome-cyber-security",
                 "stars": 713
@@ -493,7 +493,7 @@
                 "last_commit": "2025-10-20T02:12:59Z",
                 "owner": "rmusser01",
                 "repo": "Infosec_Reference",
-                "stars": 5987
+                "stars": 5986
               }
             },
             {
@@ -553,7 +553,7 @@
                 "last_commit": "2025-10-19T05:24:45Z",
                 "owner": "neutrinoguy",
                 "repo": "awesome-ics-writeups",
-                "stars": 206
+                "stars": 207
               }
             },
             {
@@ -626,7 +626,7 @@
                 "last_commit": "2026-05-07T23:44:01Z",
                 "owner": "infosecn1nja",
                 "repo": "Red-Teaming-Toolkit",
-                "stars": 10641
+                "stars": 10643
               }
             },
             {
@@ -641,7 +641,7 @@
                 "last_commit": "2023-12-28T18:10:52Z",
                 "owner": "yeyintminthuhtut",
                 "repo": "Awesome-Red-Teaming",
-                "stars": 8064
+                "stars": 8066
               }
             },
             {
@@ -671,7 +671,7 @@
                 "last_commit": "2026-02-10T19:49:09Z",
                 "owner": "bigb0sss",
                 "repo": "RedTeam-OffensiveSecurity",
-                "stars": 2292
+                "stars": 2291
               }
             },
             {
@@ -744,7 +744,7 @@
                 "last_commit": "2026-08-21T13:51:02Z",
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13717
+                "stars": 13719
               }
             },
             {
@@ -774,7 +774,7 @@
                 "last_commit": "2026-08-13T15:21:19Z",
                 "owner": "infoslack",
                 "repo": "awesome-web-hacking",
-                "stars": 7241
+                "stars": 7242
               }
             },
             {
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:29:08.785Z",
+    "last_updated": "2026-08-23T02:37:49.277Z",
     "original_repository": "vatsalgupta67/All-In-One-CyberSecurity-Resources",
     "original_repository_id": 531078889,
     "original_repository_sha": "a050178b8df34b07d39bd3f741fc403e56ee578d",
