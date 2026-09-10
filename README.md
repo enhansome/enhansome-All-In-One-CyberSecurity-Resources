@@ -156,24 +156,24 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 
 ## Simple GitHub CyberSecurity - Penetesting Repos
 
-* [Aweasome-Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,149 | 🐛 116 | 📅 2026-07-25
-* [Personal-Security](https://github.com/Lissy93/personal-security-checklist) ⭐ 22,290 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-07
-* [Awesome-Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,021 | 🐛 72 | 📅 2024-06-02
+* [Aweasome-Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,159 | 🐛 119 | 📅 2026-07-25
+* [Personal-Security](https://github.com/Lissy93/personal-security-checklist) ⭐ 22,292 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-07
+* [Awesome-Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,027 | 🐛 72 | 📅 2024-06-02
 * [Hacker-Roadmap](https://github.com/sundowndev/hacker-roadmap) ⚠️ Archived
-* [Awesome-Security](https://github.com/sbilly/awesome-security) ⭐ 14,842 | 🐛 322 | 📅 2026-01-11
-* [Public-Pentesting-Reports](https://github.com/juliocesarfort/public-pentesting-reports) ⭐ 9,720 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
+* [Awesome-Security](https://github.com/sbilly/awesome-security) ⭐ 14,841 | 🐛 324 | 📅 2026-01-11
+* [Public-Pentesting-Reports](https://github.com/juliocesarfort/public-pentesting-reports) ⭐ 9,723 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
 * [Beginners-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) ⭐ 6,355 | 🐛 14 | 📅 2022-09-21
-* [Awesome-Infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,741 | 🐛 17 | 📅 2026-08-28
-* [Awesome-Blue-Team-CyberSecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,564 | 🐛 79 | 📅 2024-07-15
-* [Awesome-Cyber-Skills](https://github.com/joe-shenouda/awesome-cyber-skills) ⭐ 4,666 | 🐛 8 | 📅 2024-07-02
+* [Awesome-Infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,740 | 🐛 18 | 📅 2026-08-28
+* [Awesome-Blue-Team-CyberSecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,564 | 🐛 80 | 📅 2024-07-15
+* [Awesome-Cyber-Skills](https://github.com/joe-shenouda/awesome-cyber-skills) ⭐ 4,668 | 🐛 8 | 📅 2024-07-02
 * [Awesome-Pentest-Cheetsheet](https://github.com/coreb1t/awesome-pentest-cheat-sheets) ⚠️ Archived
-* [Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) ⭐ 3,006 | 🐛 4 | 🌐 PowerShell | 📅 2023-06-27
-* [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing) ⭐ 2,789 | 🐛 19 | 📅 2023-10-18
+* [Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) ⭐ 3,008 | 🐛 4 | 🌐 PowerShell | 📅 2023-06-27
+* [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing) ⭐ 2,790 | 🐛 19 | 📅 2023-10-18
 * [Aweasome-CyberSecurity](https://github.com/fabionoth/awesome-cyber-security) ⭐ 1,943 | 🐛 16 | 📅 2026-08-20
 * [CyberSecurity](https://github.com/harisqazi1/Cybersecurity) ⚠️ Archived
-* [Awesome-Cyber-Security](https://github.com/okhosting/awesome-cyber-security) ⭐ 732 | 🐛 1 | 📅 2026-09-08
+* [Awesome-Cyber-Security](https://github.com/okhosting/awesome-cyber-security) ⭐ 734 | 🐛 1 | 📅 2026-09-08
 * [awesome-cybersec](https://github.com/theredditbandit/awesome-cybersec) ⭐ 194 | 🐛 1 | 📅 2026-07-25
-* [Awesome-Security](https://github.com/mbcrump/awesome-security) ⭐ 106 | 🐛 1 | 📅 2023-06-08
+* [Awesome-Security](https://github.com/mbcrump/awesome-security) ⭐ 104 | 🐛 1 | 📅 2023-06-08
 * [Web-Pentesting-Scratch](https://github.com/PacktPublishing/Learn-Website-Hacking-Penetration-Testing-From-Scratch) ⭐ 23 | 🐛 0 | 📅 2023-01-30
 * [NIST CyberSecurity Resources](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content)
 
@@ -289,7 +289,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 
 #### Search Engines - Github
 
-[Awesome-Search-Engines](https://github.com/edoardottt/awesome-hacker-search-engines) ⭐ 11,145 | 🐛 15 | 🌐 Shell | 📅 2026-09-03
+[Awesome-Search-Engines](https://github.com/edoardottt/awesome-hacker-search-engines) ⭐ 11,148 | 🐛 16 | 🌐 Shell | 📅 2026-09-03
 
 ## CyberSecurity Documentaries
 
@@ -358,13 +358,13 @@ Youtube-Playlist - <https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP
 ## Learning Resources!!
 
 * [Infosec-reference-Scada](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/SCADA.md#talks) ⭐ 5,989 | 🐛 4 | 🌐 CSS | 📅 2025-10-20
-* [ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools) ⭐ 2,034 | 🐛 2 | 🌐 HTML | 📅 2025-04-15
+* [ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools) ⭐ 2,035 | 🐛 2 | 🌐 HTML | 📅 2025-04-15
 * [Awesome-IndustryControlSystems](https://github.com/hslatman/awesome-industrial-control-system-security) ⭐ 2,012 | 🐛 11 | 🌐 Python | 📅 2025-10-10
 * [ICS-Pentesting-Tools](https://github.com/kh4sh3i/ICS-Pentesting-Tools) ⭐ 362 | 🐛 1 | 📅 2021-11-01
-* [Aweasome-ICS-WriteUps](https://github.com/neutrinoguy/awesome-ics-writeups) ⭐ 207 | 🐛 0 | 📅 2025-10-19
+* [Aweasome-ICS-WriteUps](https://github.com/neutrinoguy/awesome-ics-writeups) ⭐ 208 | 🐛 0 | 📅 2025-10-19
 * [ICS-Hacking](https://github.com/miguelob/ICS-Hacking) ⭐ 173 | 🐛 0 | 🌐 C | 📅 2022-10-31
 * [ICS and PLC Pentesting and Hacking](https://github.com/miguelob/ICS-Hacking) ⭐ 173 | 🐛 0 | 🌐 C | 📅 2022-10-31
-* [Awesome-IOT-ICS](https://github.com/reaperb0t/awesome-iot-ics-embed-pentest) ⭐ 19 | 🐛 0 | 📅 2018-03-23 - Combined short tutorials of both ICS and IOT
+* [Awesome-IOT-ICS](https://github.com/reaperb0t/awesome-iot-ics-embed-pentest) ⭐ 20 | 🐛 0 | 📅 2018-03-23 - Combined short tutorials of both ICS and IOT
 * [Practical Industrial Control System Penetration Testing - Udemy](https://www.udemy.com/course/practical-ics-pentesting) - Recommended
 * [Hacker-Arise-Scada](https://www.hackers-arise.com/scada-hacking) - Recommedended
 * [ICS-Pentesting-Youtube](https://youtube.com/playlist?list=PLYXlhBJ7y2_CVdbG8YGmkhJHQLsquxbu2) - Watch this too
@@ -412,11 +412,11 @@ Youtube-Playlist - <https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP
 
 ## Main Resources -
 
-* [RedTeaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,696 | 🐛 8 | 📅 2026-05-07
+* [RedTeaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,697 | 🐛 8 | 📅 2026-05-07
 * [Awesome-Red-Teaming-Resources](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,088 | 🐛 19 | 📅 2023-12-28
 * [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#further-resources) ⭐ 4,523 | 🐛 0 | 📅 2025-10-01
 * [Red-Team-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) ⭐ 2,296 | 🐛 3 | 🌐 Python | 📅 2026-02-10
-* [Adversary-Emulation-Library](https://github.com/center-for-threat-informed-defense/adversary_emulation_library) ⭐ 2,157 | 🐛 40 | 🌐 C | 📅 2025-05-28
+* [Adversary-Emulation-Library](https://github.com/center-for-threat-informed-defense/adversary_emulation_library) ⭐ 2,160 | 🐛 40 | 🌐 C | 📅 2025-05-28
 * [awesome-red-teaming](https://github.com/an4kein/awesome-red-teaming) ⭐ 103 | 🐛 0 | 📅 2017-11-21
 * [Hacking-Articles-Red-Teaming](https://www.hackingarticles.in/red-teaming) - Most updated with deep knowledge
 * [oddvar.moe](https://oddvar.moe/)
@@ -439,9 +439,9 @@ Youtube-Playlist - <https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP
 
 ## Main Resources -
 
-* [Owasp-Juice-Shop](https://github.com/juice-shop/juice-shop) ⭐ 13,825 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-08 - Helps to learn and deal web vulnerabilities.
-* [Awesome-Web-Security](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,779 | 🐛 3 | 🌐 Python | 📅 2026-09-05
-* [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,262 | 🐛 12 | 📅 2026-09-04
+* [Owasp-Juice-Shop](https://github.com/juice-shop/juice-shop) ⭐ 13,832 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-09 - Helps to learn and deal web vulnerabilities.
+* [Awesome-Web-Security](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,781 | 🐛 4 | 🌐 Python | 📅 2026-09-05
+* [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,261 | 🐛 12 | 📅 2026-09-04
 * [Web-Checklists](https://github.com/Hari-prasaanth/Web-App-Pentest-Checklist) ⭐ 923 | 🐛 0 | 📅 2022-10-26
 * [Portswigger-Academy](https://portswigger.net) - Practical learning
 * [Web-Application-Pentesting](https://sango667.medium.com/resources-for-web-application-penetration-testing-95f64bb8333f) - Medium writeups for beginners to level-up.
@@ -486,4 +486,4 @@ Youtube-Playlist - <https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
