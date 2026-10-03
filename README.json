@@ -4,442 +4,11 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Important-Key-Points",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
-            "homepage": null,
-            "id": 531078889,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-09T15:14:36Z",
-            "open_issues": 3,
-            "owner": "vatsalgupta67",
-            "repo": "All-In-One-CyberSecurity-Resources",
-            "stars": 603,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "binary-exploitation",
-              "collections",
-              "cybersecurity",
-              "exploit-development",
-              "hacking",
-              "ics",
-              "infosec",
-              "learning",
-              "penetration-testing",
-              "prerequisites",
-              "redteaming",
-              "resources",
-              "scada",
-              "web-application-security"
-            ]
-          },
-          "first_seen": "2026-08-28T12:48:41.540Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Prerequisites for CyberSecurity",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
-            "homepage": null,
-            "id": 531078889,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-09T15:14:36Z",
-            "open_issues": 3,
-            "owner": "vatsalgupta67",
-            "repo": "All-In-One-CyberSecurity-Resources",
-            "stars": 603,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "binary-exploitation",
-              "collections",
-              "cybersecurity",
-              "exploit-development",
-              "hacking",
-              "ics",
-              "infosec",
-              "learning",
-              "penetration-testing",
-              "prerequisites",
-              "redteaming",
-              "resources",
-              "scada",
-              "web-application-security"
-            ]
-          },
-          "first_seen": "2026-08-28T12:48:41.540Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Programming Languages Suggestion",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
-            "homepage": null,
-            "id": 531078889,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-09T15:14:36Z",
-            "open_issues": 3,
-            "owner": "vatsalgupta67",
-            "repo": "All-In-One-CyberSecurity-Resources",
-            "stars": 603,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "binary-exploitation",
-              "collections",
-              "cybersecurity",
-              "exploit-development",
-              "hacking",
-              "ics",
-              "infosec",
-              "learning",
-              "penetration-testing",
-              "prerequisites",
-              "redteaming",
-              "resources",
-              "scada",
-              "web-application-security"
-            ]
-          },
-          "first_seen": "2026-08-28T12:48:41.540Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Computer Networking",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
-            "homepage": null,
-            "id": 531078889,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-09T15:14:36Z",
-            "open_issues": 3,
-            "owner": "vatsalgupta67",
-            "repo": "All-In-One-CyberSecurity-Resources",
-            "stars": 603,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "binary-exploitation",
-              "collections",
-              "cybersecurity",
-              "exploit-development",
-              "hacking",
-              "ics",
-              "infosec",
-              "learning",
-              "penetration-testing",
-              "prerequisites",
-              "redteaming",
-              "resources",
-              "scada",
-              "web-application-security"
-            ]
-          },
-          "first_seen": "2026-08-28T12:48:41.540Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Common-CyberSecurity-Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
-            "homepage": null,
-            "id": 531078889,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-09T15:14:36Z",
-            "open_issues": 3,
-            "owner": "vatsalgupta67",
-            "repo": "All-In-One-CyberSecurity-Resources",
-            "stars": 603,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "binary-exploitation",
-              "collections",
-              "cybersecurity",
-              "exploit-development",
-              "hacking",
-              "ics",
-              "infosec",
-              "learning",
-              "penetration-testing",
-              "prerequisites",
-              "redteaming",
-              "resources",
-              "scada",
-              "web-application-security"
-            ]
-          },
-          "first_seen": "2026-08-28T12:48:41.540Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ICS/SCADA Operations",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
-            "homepage": null,
-            "id": 531078889,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-09T15:14:36Z",
-            "open_issues": 3,
-            "owner": "vatsalgupta67",
-            "repo": "All-In-One-CyberSecurity-Resources",
-            "stars": 603,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "binary-exploitation",
-              "collections",
-              "cybersecurity",
-              "exploit-development",
-              "hacking",
-              "ics",
-              "infosec",
-              "learning",
-              "penetration-testing",
-              "prerequisites",
-              "redteaming",
-              "resources",
-              "scada",
-              "web-application-security"
-            ]
-          },
-          "first_seen": "2026-08-28T12:48:41.540Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Red Team Operations/Adversary Emulation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
-            "homepage": null,
-            "id": 531078889,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-09T15:14:36Z",
-            "open_issues": 3,
-            "owner": "vatsalgupta67",
-            "repo": "All-In-One-CyberSecurity-Resources",
-            "stars": 603,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "binary-exploitation",
-              "collections",
-              "cybersecurity",
-              "exploit-development",
-              "hacking",
-              "ics",
-              "infosec",
-              "learning",
-              "penetration-testing",
-              "prerequisites",
-              "redteaming",
-              "resources",
-              "scada",
-              "web-application-security"
-            ]
-          },
-          "first_seen": "2026-08-28T12:48:41.540Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Web-Application-Pentesting",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
-            "homepage": null,
-            "id": 531078889,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-09T15:14:36Z",
-            "open_issues": 3,
-            "owner": "vatsalgupta67",
-            "repo": "All-In-One-CyberSecurity-Resources",
-            "stars": 603,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "binary-exploitation",
-              "collections",
-              "cybersecurity",
-              "exploit-development",
-              "hacking",
-              "ics",
-              "infosec",
-              "learning",
-              "penetration-testing",
-              "prerequisites",
-              "redteaming",
-              "resources",
-              "scada",
-              "web-application-security"
-            ]
-          },
-          "first_seen": "2026-08-28T12:48:41.540Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Exploit-Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
-            "homepage": null,
-            "id": 531078889,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-09T15:14:36Z",
-            "open_issues": 3,
-            "owner": "vatsalgupta67",
-            "repo": "All-In-One-CyberSecurity-Resources",
-            "stars": 603,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "binary-exploitation",
-              "collections",
-              "cybersecurity",
-              "exploit-development",
-              "hacking",
-              "ics",
-              "infosec",
-              "learning",
-              "penetration-testing",
-              "prerequisites",
-              "redteaming",
-              "resources",
-              "scada",
-              "web-application-security"
-            ]
-          },
-          "first_seen": "2026-08-28T12:48:41.540Z"
-        }
-      ],
-      "title": "Index"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "English Youtube Channels",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
-                "homepage": null,
-                "id": 531078889,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-09T15:14:36Z",
-                "open_issues": 3,
-                "owner": "vatsalgupta67",
-                "repo": "All-In-One-CyberSecurity-Resources",
-                "stars": 603,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "binary-exploitation",
-                  "collections",
-                  "cybersecurity",
-                  "exploit-development",
-                  "hacking",
-                  "ics",
-                  "infosec",
-                  "learning",
-                  "penetration-testing",
-                  "prerequisites",
-                  "redteaming",
-                  "resources",
-                  "scada",
-                  "web-application-security"
-                ]
-              },
-              "first_seen": "2026-08-28T12:48:41.540Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Hindi youtube channels",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
-                "homepage": null,
-                "id": 531078889,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-09T15:14:36Z",
-                "open_issues": 3,
-                "owner": "vatsalgupta67",
-                "repo": "All-In-One-CyberSecurity-Resources",
-                "stars": 603,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "binary-exploitation",
-                  "collections",
-                  "cybersecurity",
-                  "exploit-development",
-                  "hacking",
-                  "ics",
-                  "infosec",
-                  "learning",
-                  "penetration-testing",
-                  "prerequisites",
-                  "redteaming",
-                  "resources",
-                  "scada",
-                  "web-application-security"
-                ]
-              },
-              "first_seen": "2026-08-28T12:48:41.540Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Youtube Channels"
-        },
-        {
           "children": [
             {
               "node_type": "item",
               "title": "Aweasome-Pentest",
-              "description": null,
+              "description": "enaqx/awesome-pentest",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -452,7 +21,7 @@
                 "open_issues": 133,
                 "owner": "enaqx",
                 "repo": "awesome-pentest",
-                "stars": 27325,
+                "stars": 27330,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -463,7 +32,7 @@
             {
               "node_type": "item",
               "title": "Personal-Security",
-              "description": null,
+              "description": "lissy93/personal-security-checklist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -476,7 +45,7 @@
                 "open_issues": 42,
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22438,
+                "stars": 22441,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -498,7 +67,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Hacking",
-              "description": null,
+              "description": "carpedm20/awesome-hacking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -511,7 +80,7 @@
                 "open_issues": 74,
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 17184,
+                "stars": 17186,
                 "topics": [
                   "awesome",
                   "hacking"
@@ -522,7 +91,7 @@
             {
               "node_type": "item",
               "title": "Hacker-Roadmap",
-              "description": null,
+              "description": "sundowndev/hacker-roadmap",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -535,7 +104,7 @@
                 "open_issues": 3,
                 "owner": "sundowndev",
                 "repo": "hacker-roadmap",
-                "stars": 15628,
+                "stars": 15630,
                 "topics": [
                   "exploitation",
                   "frameworks",
@@ -557,7 +126,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Security",
-              "description": null,
+              "description": "sbilly/awesome-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -567,10 +136,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-01-11T02:00:26Z",
-                "open_issues": 349,
+                "open_issues": 350,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14926,
+                "stars": 14930,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -581,7 +150,7 @@
             {
               "node_type": "item",
               "title": "Public-Pentesting-Reports",
-              "description": null,
+              "description": "juliocesarfort/public-pentesting-reports",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -594,7 +163,7 @@
                 "open_issues": 16,
                 "owner": "juliocesarfort",
                 "repo": "public-pentesting-reports",
-                "stars": 9742,
+                "stars": 9744,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:41.540Z"
@@ -602,7 +171,7 @@
             {
               "node_type": "item",
               "title": "Beginners-Network-Pentesting",
-              "description": null,
+              "description": "hmaverickadams/Beginner-Network-Pentesting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -615,7 +184,7 @@
                 "open_issues": 14,
                 "owner": "hmaverickadams",
                 "repo": "Beginner-Network-Pentesting",
-                "stars": 6376,
+                "stars": 6375,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:41.540Z"
@@ -623,7 +192,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Infosec",
-              "description": null,
+              "description": "onlurking/awesome-infosec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -636,7 +205,7 @@
                 "open_issues": 19,
                 "owner": "onlurking",
                 "repo": "awesome-infosec",
-                "stars": 5756,
+                "stars": 5754,
                 "topics": [
                   "awesome",
                   "courses",
@@ -653,7 +222,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Blue-Team-CyberSecurity",
-              "description": null,
+              "description": "fabacab/awesome-cybersecurity-blueteam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -666,7 +235,7 @@
                 "open_issues": 85,
                 "owner": "fabacab",
                 "repo": "awesome-cybersecurity-blueteam",
-                "stars": 5587,
+                "stars": 5590,
                 "topics": [
                   "awesome-list",
                   "blue-team",
@@ -682,7 +251,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Cyber-Skills",
-              "description": null,
+              "description": "joe-shenouda/awesome-cyber-skills",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -703,7 +272,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Pentest-Cheetsheet",
-              "description": null,
+              "description": "coreb1t/awesome-pentest-cheat-sheets",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -716,7 +285,7 @@
                 "open_issues": 2,
                 "owner": "coreb1t",
                 "repo": "awesome-pentest-cheat-sheets",
-                "stars": 4373,
+                "stars": 4372,
                 "topics": [
                   "awesome",
                   "cheatsheet",
@@ -732,7 +301,7 @@
             {
               "node_type": "item",
               "title": "Penetration-Testing-Tools",
-              "description": null,
+              "description": "mgeeky/Penetration-Testing-Tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -745,7 +314,7 @@
                 "open_issues": 3,
                 "owner": "mgeeky",
                 "repo": "Penetration-Testing-Tools",
-                "stars": 3021,
+                "stars": 3020,
                 "topics": [
                   "cheatsheets",
                   "exploit",
@@ -768,7 +337,7 @@
             {
               "node_type": "item",
               "title": "Penetration-Testing",
-              "description": null,
+              "description": "wtsxDev/Penetration-Testing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -781,7 +350,7 @@
                 "open_issues": 19,
                 "owner": "wtsxDev",
                 "repo": "Penetration-Testing",
-                "stars": 2802,
+                "stars": 2803,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:41.540Z"
@@ -789,7 +358,7 @@
             {
               "node_type": "item",
               "title": "Aweasome-CyberSecurity",
-              "description": null,
+              "description": "fabionoth/awesome-cyber-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -802,7 +371,7 @@
                 "open_issues": 18,
                 "owner": "fabionoth",
                 "repo": "awesome-cyber-security",
-                "stars": 1963,
+                "stars": 1964,
                 "topics": [
                   "certification",
                   "cyber-security",
@@ -816,7 +385,7 @@
             {
               "node_type": "item",
               "title": "CyberSecurity",
-              "description": null,
+              "description": "harisqazi1/Cybersecurity",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -837,7 +406,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Cyber-Security",
-              "description": null,
+              "description": "okhosting/awesome-cyber-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -846,11 +415,11 @@
                 "id": 378968632,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-28T14:26:01Z",
+                "last_commit": "2026-10-02T21:54:23Z",
                 "open_issues": 1,
                 "owner": "okhosting",
                 "repo": "awesome-cyber-security",
-                "stars": 762,
+                "stars": 763,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:41.540Z"
@@ -858,7 +427,7 @@
             {
               "node_type": "item",
               "title": "awesome-cybersec",
-              "description": null,
+              "description": "dhotrey/awesome-cybersec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -871,7 +440,7 @@
                 "open_issues": 1,
                 "owner": "dhotrey",
                 "repo": "awesome-cybersec",
-                "stars": 196,
+                "stars": 195,
                 "topics": [
                   "bounty-hunters",
                   "bug-bounties",
@@ -889,7 +458,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Security",
-              "description": null,
+              "description": "mbcrump/awesome-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -924,7 +493,7 @@
             {
               "node_type": "item",
               "title": "Web-Pentesting-Scratch",
-              "description": null,
+              "description": "PacktPublishing/Learn-Website-Hacking-Penetration-Testing-From-Scratch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -954,7 +523,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome-Search-Engines",
-                  "description": null,
+                  "description": "edoardottt/awesome-hacker-search-engines",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1014,7 +583,7 @@
             {
               "node_type": "item",
               "title": "Infosec-reference-Scada",
-              "description": null,
+              "description": "rmusser01/Infosec_Reference",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1055,7 +624,7 @@
             {
               "node_type": "item",
               "title": "ICS-Security-Tools",
-              "description": null,
+              "description": "ITI/ICS-Security-Tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1090,7 +659,7 @@
             {
               "node_type": "item",
               "title": "Awesome-IndustryControlSystems",
-              "description": null,
+              "description": "hslatman/awesome-industrial-control-system-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1118,7 +687,7 @@
             {
               "node_type": "item",
               "title": "ICS-Pentesting-Tools",
-              "description": null,
+              "description": "kh4sh3i/ICS-Pentesting-Tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1149,7 +718,7 @@
             {
               "node_type": "item",
               "title": "Aweasome-ICS-WriteUps",
-              "description": null,
+              "description": "neutrinoguy/awesome-ics-writeups",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1181,7 +750,7 @@
             {
               "node_type": "item",
               "title": "ICS-Hacking",
-              "description": null,
+              "description": "miguelob/ICS-Hacking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1216,7 +785,7 @@
             {
               "node_type": "item",
               "title": "ICS and PLC Pentesting and Hacking",
-              "description": null,
+              "description": "miguelob/ICS-Hacking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1285,7 +854,7 @@
             {
               "node_type": "item",
               "title": "RedTeaming-Toolkit",
-              "description": null,
+              "description": "infosecn1nja/Red-Teaming-Toolkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1298,7 +867,7 @@
                 "open_issues": 8,
                 "owner": "infosecn1nja",
                 "repo": "Red-Teaming-Toolkit",
-                "stars": 10751,
+                "stars": 10753,
                 "topics": [
                   "hacking",
                   "infosec",
@@ -1311,7 +880,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Red-Teaming-Resources",
-              "description": null,
+              "description": "yeyintminthuhtut/Awesome-Red-Teaming",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1324,7 +893,7 @@
                 "open_issues": 19,
                 "owner": "yeyintminthuhtut",
                 "repo": "Awesome-Red-Teaming",
-                "stars": 8116,
+                "stars": 8117,
                 "topics": [
                   "cobalt-strike",
                   "empire",
@@ -1339,7 +908,7 @@
             {
               "node_type": "item",
               "title": "Red-Team-Infrastructure-Wiki",
-              "description": null,
+              "description": "bluscreenofjeff/Red-Team-Infrastructure-Wiki",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1352,7 +921,7 @@
                 "open_issues": 0,
                 "owner": "bluscreenofjeff",
                 "repo": "Red-Team-Infrastructure-Wiki",
-                "stars": 4535,
+                "stars": 4536,
                 "topics": [
                   "cobalt-strike",
                   "empire",
@@ -1367,7 +936,7 @@
             {
               "node_type": "item",
               "title": "Red-Team-OffensiveSecurity",
-              "description": null,
+              "description": "bigb0sss/RedTeam-OffensiveSecurity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1388,7 +957,7 @@
             {
               "node_type": "item",
               "title": "Adversary-Emulation-Library",
-              "description": null,
+              "description": "center-for-threat-informed-defense/adversary_emulation_library",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1418,7 +987,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Red-Team-Operations",
-              "description": null,
+              "description": "JoasASantos/Awesome-Red-Team-Operations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1439,7 +1008,7 @@
             {
               "node_type": "item",
               "title": "awesome-red-teaming",
-              "description": null,
+              "description": "an4kein/awesome-red-teaming",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1486,7 +1055,7 @@
                 "open_issues": 5,
                 "owner": "juice-shop",
                 "repo": "juice-shop",
-                "stars": 13995,
+                "stars": 14008,
                 "topics": [
                   "24pullrequests",
                   "application-security",
@@ -1509,7 +1078,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Web-Security",
-              "description": null,
+              "description": "qazbnm456/awesome-web-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1522,7 +1091,7 @@
                 "open_issues": 13,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13840,
+                "stars": 13842,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1538,7 +1107,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Web-Hacking",
-              "description": null,
+              "description": "infoslack/awesome-web-hacking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1551,7 +1120,7 @@
                 "open_issues": 11,
                 "owner": "infoslack",
                 "repo": "awesome-web-hacking",
-                "stars": 7282,
+                "stars": 7281,
                 "topics": [
                   "appsec",
                   "hacking",
@@ -1573,7 +1142,7 @@
             {
               "node_type": "item",
               "title": "Web-Checklists",
-              "description": null,
+              "description": "Hari-prasaanth/Web-App-Pentest-Checklist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1614,54 +1183,9 @@
         {
           "children": [
             {
-              "children": [],
-              "description": null,
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
-                "homepage": null,
-                "id": 531078889,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-09T15:14:36Z",
-                "open_issues": 3,
-                "owner": "vatsalgupta67",
-                "repo": "All-In-One-CyberSecurity-Resources",
-                "stars": 603,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "binary-exploitation",
-                  "collections",
-                  "cybersecurity",
-                  "exploit-development",
-                  "hacking",
-                  "ics",
-                  "infosec",
-                  "learning",
-                  "penetration-testing",
-                  "prerequisites",
-                  "redteaming",
-                  "resources",
-                  "scada",
-                  "web-application-security"
-                ]
-              },
-              "title": "Note - Prerequisites of Cybersecurity is needed in all the sub-sets !!!!",
-              "first_seen": "2026-08-28T12:48:41.540Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Basics of Exploit Development"
-        },
-        {
-          "children": [
-            {
               "node_type": "item",
               "title": "Exploit-Development-repo",
-              "description": null,
+              "description": "wtsxDev/Exploit-Development",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1682,7 +1206,7 @@
             {
               "node_type": "item",
               "title": "Exploit Development",
-              "description": null,
+              "description": "jopraveen/exploit-development",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1703,7 +1227,7 @@
             {
               "node_type": "item",
               "title": "Huge-Exploit-Development",
-              "description": null,
+              "description": "cranelab/exploit-development",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1724,7 +1248,7 @@
             {
               "node_type": "item",
               "title": "Exploit Development - Cranelab",
-              "description": null,
+              "description": "cranelab/exploit-development",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1752,7 +1276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:02:52.164Z",
+    "last_updated": "2026-10-03T04:23:42.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
