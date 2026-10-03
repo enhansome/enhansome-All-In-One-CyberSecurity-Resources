@@ -21,7 +21,7 @@
                 "open_issues": 133,
                 "owner": "enaqx",
                 "repo": "awesome-pentest",
-                "stars": 27330,
+                "stars": 27331,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -184,7 +184,7 @@
                 "open_issues": 14,
                 "owner": "hmaverickadams",
                 "repo": "Beginner-Network-Pentesting",
-                "stars": 6375,
+                "stars": 6376,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:41.540Z"
@@ -264,7 +264,7 @@
                 "open_issues": 0,
                 "owner": "joe-shenouda",
                 "repo": "awesome-cyber-skills",
-                "stars": 4705,
+                "stars": 4706,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:41.540Z"
@@ -536,7 +536,7 @@
                     "open_issues": 7,
                     "owner": "edoardottt",
                     "repo": "awesome-hacker-search-engines",
-                    "stars": 11237,
+                    "stars": 11238,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -596,7 +596,7 @@
                 "open_issues": 4,
                 "owner": "rmusser01",
                 "repo": "Infosec_Reference",
-                "stars": 6001,
+                "stars": 6002,
                 "topics": [
                   "blueteam",
                   "forensics",
@@ -867,7 +867,7 @@
                 "open_issues": 8,
                 "owner": "infosecn1nja",
                 "repo": "Red-Teaming-Toolkit",
-                "stars": 10753,
+                "stars": 10754,
                 "topics": [
                   "hacking",
                   "infosec",
@@ -893,7 +893,7 @@
                 "open_issues": 19,
                 "owner": "yeyintminthuhtut",
                 "repo": "Awesome-Red-Teaming",
-                "stars": 8117,
+                "stars": 8118,
                 "topics": [
                   "cobalt-strike",
                   "empire",
@@ -921,7 +921,7 @@
                 "open_issues": 0,
                 "owner": "bluscreenofjeff",
                 "repo": "Red-Team-Infrastructure-Wiki",
-                "stars": 4536,
+                "stars": 4537,
                 "topics": [
                   "cobalt-strike",
                   "empire",
@@ -1055,7 +1055,7 @@
                 "open_issues": 5,
                 "owner": "juice-shop",
                 "repo": "juice-shop",
-                "stars": 14008,
+                "stars": 14009,
                 "topics": [
                   "24pullrequests",
                   "application-security",
@@ -1120,7 +1120,7 @@
                 "open_issues": 11,
                 "owner": "infoslack",
                 "repo": "awesome-web-hacking",
-                "stars": 7281,
+                "stars": 7282,
                 "topics": [
                   "appsec",
                   "hacking",
@@ -1276,7 +1276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:23:42.700Z",
+    "last_updated": "2026-10-03T06:35:57.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
