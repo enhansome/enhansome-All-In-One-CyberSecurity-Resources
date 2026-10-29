@@ -18,10 +18,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-25T12:15:45Z",
-                "open_issues": 146,
+                "open_issues": 148,
                 "owner": "enaqx",
                 "repo": "awesome-pentest",
-                "stars": 27567,
+                "stars": 27573,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -42,10 +42,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-15T15:15:18Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22644,
+                "stars": 22654,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -80,7 +80,7 @@
                 "open_issues": 74,
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 17365,
+                "stars": 17371,
                 "topics": [
                   "awesome",
                   "hacking"
@@ -104,7 +104,7 @@
                 "open_issues": 3,
                 "owner": "sundowndev",
                 "repo": "hacker-roadmap",
-                "stars": 15671,
+                "stars": 15674,
                 "topics": [
                   "exploitation",
                   "frameworks",
@@ -136,10 +136,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-01-11T02:00:26Z",
-                "open_issues": 374,
+                "open_issues": 379,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 15041,
+                "stars": 15047,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -163,7 +163,7 @@
                 "open_issues": 16,
                 "owner": "juliocesarfort",
                 "repo": "public-pentesting-reports",
-                "stars": 9793,
+                "stars": 9796,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:41.540Z"
@@ -205,7 +205,7 @@
                 "open_issues": 19,
                 "owner": "onlurking",
                 "repo": "awesome-infosec",
-                "stars": 5766,
+                "stars": 5770,
                 "topics": [
                   "awesome",
                   "courses",
@@ -235,7 +235,7 @@
                 "open_issues": 87,
                 "owner": "fabacab",
                 "repo": "awesome-cybersecurity-blueteam",
-                "stars": 5622,
+                "stars": 5623,
                 "topics": [
                   "awesome-list",
                   "blue-team",
@@ -264,7 +264,7 @@
                 "open_issues": 1,
                 "owner": "joe-shenouda",
                 "repo": "awesome-cyber-skills",
-                "stars": 4758,
+                "stars": 4760,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:41.540Z"
@@ -285,7 +285,7 @@
                 "open_issues": 2,
                 "owner": "coreb1t",
                 "repo": "awesome-pentest-cheat-sheets",
-                "stars": 4391,
+                "stars": 4389,
                 "topics": [
                   "awesome",
                   "cheatsheet",
@@ -368,10 +368,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-20T21:55:17Z",
-                "open_issues": 19,
+                "open_issues": 21,
                 "owner": "fabionoth",
                 "repo": "awesome-cyber-security",
-                "stars": 1981,
+                "stars": 1982,
                 "topics": [
                   "certification",
                   "cyber-security",
@@ -398,7 +398,7 @@
                 "open_issues": 0,
                 "owner": "okhosting",
                 "repo": "awesome-cyber-security",
-                "stars": 786,
+                "stars": 787,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:41.540Z"
@@ -511,11 +511,11 @@
                     "id": 505385703,
                     "language": "Shell",
                     "license": "MIT",
-                    "last_commit": "2026-10-27T08:14:01Z",
+                    "last_commit": "2026-10-28T08:25:15Z",
                     "open_issues": 14,
                     "owner": "edoardottt",
                     "repo": "awesome-hacker-search-engines",
-                    "stars": 11430,
+                    "stars": 11439,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -616,7 +616,7 @@
                 "open_issues": 3,
                 "owner": "ITI",
                 "repo": "ICS-Security-Tools",
-                "stars": 2074,
+                "stars": 2073,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -843,10 +843,10 @@
                 "language": null,
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-07T23:44:01Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "infosecn1nja",
                 "repo": "Red-Teaming-Toolkit",
-                "stars": 10814,
+                "stars": 10816,
                 "topics": [
                   "hacking",
                   "infosec",
@@ -928,7 +928,7 @@
                 "open_issues": 3,
                 "owner": "bigb0sss",
                 "repo": "RedTeam-OffensiveSecurity",
-                "stars": 2311,
+                "stars": 2309,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:41.540Z"
@@ -979,7 +979,7 @@
                 "open_issues": 6,
                 "owner": "JoasASantos",
                 "repo": "Awesome-Red-Team-Operations",
-                "stars": 1733,
+                "stars": 1732,
                 "topics": []
               },
               "first_seen": "2026-09-16T06:05:53.563Z"
@@ -1031,10 +1031,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T21:54:46Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "juice-shop",
                 "repo": "juice-shop",
-                "stars": 14263,
+                "stars": 14272,
                 "topics": [
                   "24pullrequests",
                   "application-security",
@@ -1070,7 +1070,7 @@
                 "open_issues": 29,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13967,
+                "stars": 13974,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1095,11 +1095,11 @@
                 "id": 34994225,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-18T02:51:45Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-29T01:57:45Z",
+                "open_issues": 20,
                 "owner": "infoslack",
                 "repo": "awesome-web-hacking",
-                "stars": 7330,
+                "stars": 7331,
                 "topics": [
                   "appsec",
                   "hacking",
@@ -1134,7 +1134,7 @@
                 "open_issues": 0,
                 "owner": "Hari-prasaanth",
                 "repo": "Web-App-Pentest-Checklist",
-                "stars": 929,
+                "stars": 930,
                 "topics": [
                   "bug",
                   "bugbounty",
@@ -1255,7 +1255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T06:53:22.586Z",
+    "last_updated": "2026-10-29T07:10:25.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
